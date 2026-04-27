@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "78302766121",
+    "project_id": "bbquiz-f473b",
+    "storage_bucket": "bbquiz-f473b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78302766121:android:475dfe2483e4cae257a838",
+        "android_client_info": {
+          "package_name": "com.example.bbquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0hRu6atZ5lFfj0poys4ancCmGYrUo6uU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
